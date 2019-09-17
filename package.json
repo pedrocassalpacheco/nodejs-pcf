@@ -1,0 +1,14 @@
+{
+  "name": "pcf-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs test on pcf",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro el Magnifico",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "instana-nodejs-sensor": "^1.28.0"
+  }
+}
